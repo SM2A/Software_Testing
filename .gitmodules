@@ -4,3 +4,6 @@
 [submodule "CA2"]
 	path = CA2
 	url = https://github.com/SM2A/Software_Testing_CA1
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/SM2A/Software_Testing_CA1
