@@ -13,3 +13,6 @@
 [submodule "CA5"]
 	path = CA5
 	url = https://github.com/SM2A/Software_Testing_CA1
+[submodule "CA6"]
+	path = CA6
+	url = https://github.com/SM2A/Software_Testing_CA1
